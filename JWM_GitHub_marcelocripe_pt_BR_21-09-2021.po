@@ -124,7 +124,7 @@ msgstr "não foi possível criar a estrutura de leitura para a imagem PNG %s"
 #: src/image.c:233
 #, c-format
 msgid "error reading PNG image: %s"
-msgstr "erro ao ler imagem PNG %s"
+msgstr "erro ao ler a imagem PNG %s"
 
 #: src/image.c:241
 #, c-format
