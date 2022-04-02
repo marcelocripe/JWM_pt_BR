@@ -1,0 +1,10 @@
+<NotepadPlus>
+    <Session activeView="0">
+        <mainView activeIndex="0">
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1251" startPos="0" endPos="0" selMode="0" lang="Texto Normal" encoding="-1" filename="C:\Users\Manutencao\Downloads\JWM_GitHub_Original_pt_BR_02-04-2022.po" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="945" startPos="0" endPos="0" selMode="0" lang="Texto Normal" encoding="-1" filename="C:\Users\Manutencao\Downloads\GNU - Linux\antiX Linux\Traducoes do JWM pt-BR\JWM_GitHub_Original_pt_BR_20-09-2021.po" />
+            <File firstVisibleLine="0" xOffset="0" scrollWidth="1140" startPos="307" endPos="192" selMode="0" lang="Texto Normal" encoding="-1" filename="C:\Users\Manutencao\Downloads\GNU - Linux\antiX Linux\Barra de Ferramentas FT10 para o antiX\Codigo Fonte\ft10-transformation_1.4.b7_all_marcelocripe_31-03-2022\usr\share\po\access-cloud\pt_BR.po" />
+        </mainView>
+        <subView activeIndex="0" />
+    </Session>
+</NotepadPlus>
